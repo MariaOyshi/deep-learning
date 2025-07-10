@@ -1,0 +1,29 @@
+[Start]
+   ↓
+[Data Collection]
+   - BRATS Dataset (MRI Images)
+   ↓
+[Data Preprocessing]
+   - Normalization
+   - Resizing
+   - Augmentation
+   ↓
+[Model Building]
+   - CNN or U-Net with Attention
+   ↓
+[Model Training]
+   - Optimizer, Loss, Epochs
+   ↓
+[Model Evaluation]
+   - Accuracy, Dice Score, Confusion Matrix
+   ↓
+[Deployment]
+   - Streamlit App  Kaggle Notebook
+   ↓
+[User Uploads MRI Image]
+   ↓
+[Model Predicts Tumor Segmentation]
+   ↓
+[Output Segmented Image + Tumor Class]
+   ↓
+[End]
